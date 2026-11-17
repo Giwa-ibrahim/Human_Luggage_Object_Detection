@@ -1,0 +1,1 @@
+## An Objection Detection Project that works by training computer vision models like MobileNet-V2 and EfficentNet-B3 model to accurately predict harmful metallic objects.
